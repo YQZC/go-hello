@@ -1,5 +1,3 @@
-//module github.com/YQZC/go-hello
-
-module github.com/YQZC/go-hello/v1
+module github.com/YQZC/go-hello
 
 go 1.19
